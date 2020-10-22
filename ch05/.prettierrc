@@ -1,0 +1,8 @@
+{
+  "trailingComma": all, // 배열에서 객체가 여러 줄로 구성되어 있을 경우 쉼표를 붙여줌
+  "singleQuote": true, // 쌍따옴표 쓰인 곳 홑따옴표로 바꿔줌
+  "semi": true, // 세미콜론 빠진 곳 채워줌
+  "useTabs": false, // 자동 탭정리
+  "tabWidth": 2, // 들여쓰기 간격
+  "printWidth": 200 // 한 줄처리 길이, 200정도 쓰면 넉넉함.
+}
