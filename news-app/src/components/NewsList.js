@@ -8,7 +8,7 @@ const sampleArticle = {
   title: "제목입니다.",
   description: "내용입니다.",
   url: "https://google.com",
-  urlToImage: "https:/via.placeholder.com/160",
+  urlToImage: "https://via.placeholder.com/160",
 };
 
 const NewsList = ({ category }) => {
