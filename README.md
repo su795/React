@@ -1,7 +1,6 @@
-# React
+# React 수업예제
 ## Ch01
   + Hello React 출력
-
 
 ## Ch02 
   + JSX 실습하기
