@@ -5,7 +5,7 @@ import LifeCycleCompo from "./components/LifeCycleCompo";
 
 /*
   날짜: 2020/10/21
-  이름: 권기민
+  이름: 오세훈
   내용: 컴포넌트 생명주기 실습하기
 
   컴포넌트 생명주기
